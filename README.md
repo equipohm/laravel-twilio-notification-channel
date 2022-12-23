@@ -45,6 +45,7 @@ TWILIO_FROM=100000000 # optional default from
 TWILIO_ALPHA_SENDER=HELLO # optional
 TWILIO_DEBUG_TO=23423423423 # Set a number that call calls/messages should be routed to for debugging
 TWILIO_SMS_SERVICE_SID=MG0a0aaaaaa00aa00a00a000a00000a00a # Optional but recommended 
+TWILIO_SHORTEN_URLS=true # optional, enable URL shortener
 ```
 
 ### Advanced configuration
